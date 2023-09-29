@@ -1,11 +1,7 @@
 /*
-Task 6: Joke Generator
+Задача 6: Генератор анекдотов
 
-Description:
-   Create a program that generates random jokes and humor.
+Описание:
+   Создайте программу, которая будет генерировать случайные анекдоты и шутки.
 
 */
-
-// Your code for Task 6 goes here...
-
-//=========================================================
