@@ -1,12 +1,7 @@
 /*
-Task 3: Typing Speed Tester
+Задача 3: Тестировщик скорости печати
 
-Description:
-   Create an application that provides text for typing
-   and measures typing speed.
+Описание:
+   Разработать приложение, которое предоставляет текст для набора и измеряет скорость печати.
 
 */
-
-// Your code for Task 3 goes here...
-
-//=========================================================
