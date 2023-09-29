@@ -1,11 +1,7 @@
 /*
-Task 18: Password Manager
+Задача 18: Менеджер паролей
 
-Description:
-   Create an application for storing and managing account passwords.
+Описание:
+   Разработать приложение для хранения и управления паролями от аккаунтов.
 
 */
-
-// Your code for Task 18 goes here...
-
-//=========================================================
