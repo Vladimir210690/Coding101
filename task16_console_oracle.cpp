@@ -1,11 +1,7 @@
 /*
-Task 16: Console Oracle with Predictions
+Задача 16: Консольный оракул с предсказаниями
 
-Description:
-   Build an application that answers user questions with random predictions.
+Описание:
+   Создайте приложение, которое будет отвечать на вопросы пользователя с помощью случайных предсказаний.
 
 */
-
-// Your code for Task 16 goes here...
-
-//=========================================================
