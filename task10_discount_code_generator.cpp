@@ -1,11 +1,7 @@
 /*
-Task 10: Discount Code and Promotion Generator
+Задача 10: Генератор кодов для скидок и акций
 
-Description:
-   Create a tool for generating unique discount and promotion codes.
+Описание:
+   Создать инструмент для генерации уникальных кодов для скидок и акций.
 
 */
-
-// Your code for Task 10 goes here...
-
-//=========================================================
