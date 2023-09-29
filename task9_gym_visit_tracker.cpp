@@ -1,11 +1,7 @@
 /*
-Task 9: Gym Visit Tracker
+Задача 9: Учет посещений тренажерного зала
 
-Description:
-   Create an application to track gym visits and workouts.
+Описание:
+   Создать приложение для учета посещений тренажерного зала и тренировок.
 
 */
-
-// Your code for Task 9 goes here...
-
-//=========================================================
