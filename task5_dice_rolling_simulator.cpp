@@ -1,11 +1,7 @@
 /*
-Task 5: Console Dice Rolling Simulator
+Задача 5: Консольный симулятор бросания кубика
 
-Description:
-   Implement a simulator for rolling a die with random number output.
+Описание:
+   Реализуйте симулятор бросания игрального кубика с выводом случайных чисел.
 
 */
-
-// Your code for Task 5 goes here...
-
-//=========================================================
