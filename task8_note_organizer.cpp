@@ -1,11 +1,7 @@
 /*
-Task 8: Note Organizer
+Задача 8: Органайзер для заметок
 
-Description:
-   Create an application for creating and managing notes and tasks.
+Описание:
+   Создать приложение для создания и управления заметками и задачами.
 
 */
-
-// Your code for Task 8 goes here...
-
-//=========================================================
