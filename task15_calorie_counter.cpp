@@ -1,11 +1,7 @@
 /*
-Task 15: Calorie Counter
+Задача 15: Счетчик калорий
 
-Description:
-   Create an application to track food consumption and calculate total calorie intake throughout the day.
+Описание:
+   Разработать приложение для учета потребления пищи и подсчета общего количества калорий в течение дня.
 
 */
-
-// Your code for Task 15 goes here...
-
-//=========================================================
