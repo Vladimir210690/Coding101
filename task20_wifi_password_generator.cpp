@@ -1,11 +1,6 @@
 /*
-Task 20: Wi-Fi Network Password Generator
+Задача 20: Генератор паролей для Wi-Fi сетей
 
-Description:
-   Develop a program for generating secure passwords for Wi-Fi networks.
-
+Описание:
+   Разработать программу для генерации безопасных паролей для Wi-Fi сетей.
 */
-
-// Your code for Task 20 goes here...
-
-//=========================================================
