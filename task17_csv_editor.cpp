@@ -1,11 +1,7 @@
 /*
-Task 17: CSV File Editor and Viewer
+Задача 17: Редактор и просмотрщик файлов CSV
 
-Description:
-   Develop a program for working with CSV format files.
+Описание:
+   Разработать программу для работы с файлами в формате CSV.
 
 */
-
-// Your code for Task 17 goes here...
-
-//=========================================================
