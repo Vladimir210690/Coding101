@@ -1,11 +1,7 @@
 /*
-Task 19: Body Mass Calculator (BMI)
+Задача 19: Калькулятор боди-массы (ИМТ)
 
-Description:
-   Build an application for calculating Body Mass Index (BMI) based on user height and weight.
+Описание:
+   Создать приложение для расчета индекса массы тела (ИМТ) на основе роста и веса пользователя.
 
 */
-
-// Your code for Task 19 goes here...
-
-//=========================================================
