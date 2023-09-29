@@ -1,11 +1,7 @@
 /*
-Task 7: Word Count in Text
+Задача 7: Подсчет количества слов в тексте
 
-Description:
-   Develop a program to count words in a text.
+Описание:
+   Разработать программу для подсчета слов в тексте.
 
 */
-
-// Your code for Task 7 goes here...
-
-//=========================================================
