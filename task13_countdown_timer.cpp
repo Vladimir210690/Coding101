@@ -1,11 +1,7 @@
 /*
-Task 13: Countdown Timer
+Задача 13: Таймер обратного отсчета
 
-Description:
-   Create a timer with the ability to set a countdown time.
+Описание:
+   Создать таймер с возможностью установки обратного отсчета времени.
 
 */
-
-// Your code for Task 13 goes here...
-
-//=========================================================
