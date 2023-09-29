@@ -1,12 +1,7 @@
 /*
+Задача 11: Учет финансов
 
-Task 11: Financial Expense Tracker
-
-Description:
-   Create an application for entering and tracking financial transactions.
+Описание:
+   Создать приложение для ввода и учета финансовых операций.
 
 */
-
-// Your code for Task 11 goes here...
-
-//=========================================================
