@@ -1,12 +1,7 @@
 /*
-Task 1: Secret Language
+Задача 1: Секретный язык
 
-Description:
-   Develop a program for encrypting and decrypting texts
-   using a simple secret alphabet or letter substitution method.
+Описание:
+   Разработать программу для шифрования и дешифрования текстов с использованием простого секретного алфавита или метода замены букв.
 
 */
-
-// Your code for Task 1 goes here...
-
-//=========================================================
