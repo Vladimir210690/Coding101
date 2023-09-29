@@ -1,12 +1,7 @@
 /*
-Task 2: Console Game "Rock, Paper, Scissors"
+Задача 2: Консольная игра "Камень, ножницы, бумага"
 
-Description:
-   Implement a version of the "Rock, Paper, Scissors" game
-   between the user and the computer.
+Описание:
+   Реализовать версию игры "Камень, ножницы, бумага" между пользователем и компьютером.
 
 */
-
-// Your code for Task 2 goes here...
-
-//=========================================================
