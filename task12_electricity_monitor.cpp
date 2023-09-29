@@ -1,11 +1,7 @@
 /*
-Task 12: Electricity Consumption Monitor
+Задача 12: Учет потребления электроэнергии
 
-Description:
-   Develop an application for monitoring electricity consumption and energy conservation analysis.
+Описание:
+   Разработать приложение для учета потребления электроэнергии и анализа энергосбережения.
 
 */
-
-// Your code for Task 12 goes here...
-
-//=========================================================
