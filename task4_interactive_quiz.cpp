@@ -1,11 +1,7 @@
 /*
-Task 4: Interactive Quiz
+Задача 4: Интерактивная викторина
 
-Description:
-   Create a quiz with questions on various topics and multiple-choice answers.
+Описание:
+   Создать викторину с вопросами на разные темы и вариантами ответов.
 
 */
-
-// Your code for Task 4 goes here...
-
-//=========================================================
