@@ -1,11 +1,7 @@
 /*
-Task 14: Calories Burned in Workouts
+Задача 14: Подсчет калорий в тренировках
 
-Description:
-   Develop an application for calculating burned calories in workouts with the option to enter exercise type and duration.
+Описание:
+   Разработать приложение для подсчета сожженных калорий в тренировках с возможностью ввода типа и длительности упражнений.
 
 */
-
-// Your code for Task 14 goes here...
-
-//=========================================================
